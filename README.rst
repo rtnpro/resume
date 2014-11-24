@@ -36,67 +36,30 @@ Experience
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 - Present
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**Infrastructure plumbing, and heading telephony and CRM tools development**
-
-- Built an intelligent IVR framework
-- Creating and integrating tools to improve CRM workflow
-- Sentry integration
-- Gitlab maintenance and upgrade
-- Creating and maintaining Vagrant boxes for various Goibibo products
-- Write deployment scripts in Ansible and suggested migration from bash
-  to Ansible for deployments
-- Evaluated Eucalyptus cloud, Mesosphere, etc. for revamping the
-  infrastructure at Goibibo
+I'm heading *communication* and *CRM* tools development and engaging in
+infrastructure plumbing as needed.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Engineer at Ibibo Group Pvt. Ltd., February 2013 - April 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-**Web development for Goibibo**
-
-- Created a framework to automate handling of updated flight/travel
-  info from Amadeus Queues and notify users on the same.
-- Built ticket change (cancellation, rescheduling) API to enable
-  seamless ticket change from web and mobile platforms.
-- Worked with improving and writing new parsers for Goibibo flights
-- Built application for `Goibibo Go <https://www.goibibo.com/go>`_,
-  a dynamic travel packaging product.
+Involved in web development for Goibibo: Flights and Go (a dynamic
+packaging product). It was an awesome experience to create apps which
+power various platforms like web, iOS, Android.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Developer and QA at Transifex , September 2011 – January 2013
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 At Transifex, I developed new features, enhanced existing ones and implemented
-support for various i18n file formats. I also wrote tests to ensure that
-things run as they are expected to. User support, bug triagging and bug
-fixing were also part of my job. At Transifex, we constantly innovated to
-take localization to the next level. Below are a few things(among many)
-that I had worked on at Transifex:
-
-* Implemented and enhanced
-  `file format
-  <http://help.transifex.com/features/formats.html#user-formats>`_ handlers.
-* Implemented `Glossary
-  <http://docs.transifex.com/guides/glossary>`_ feature.
-* Implemented *related tag cloud*.
-* Implemented `translation strings API
-  <http://docs.transifex.com/developer/api/translation_strings>`_.
-* Implemented `languages API
-  <http://docs.transifex.com/developer/api/languages>`_.
-* Implemented a super fast test suite.
-* Fixed and updated tests.
-* Bug-triagging & bug-fixing.
-* Handled user queries and bug reports at
-  `support.transifex.com <support.transifex.com>`_ and over live chat
-  at `Transifex <www.transifex.com>`_.
+support for various i18n file formats. I also improved and maintained
+the test suite, added more tests to improve code coverage. User support,
+bug triagging and bug fixing were also part of my job.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Summer Intern at Transifex , June 2011 - August 2011 (3 months)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-It was an awesome experience to work as an Intern at Transifex. I got
-introduced to a plethora of new technologies all of a sudden. I went
-through a steep learning curve and finally it paid off. I contributed
-to Transifex, increased test coverage for Transifex, fixed bugs,
-added support for new i18n file fomats. I also worked on implementing
-new features for Transifex, like, Glossary, tag assignment, etc.
+I contributed to Transifex, increased test coverage for Transifex,
+fixed bugs, added support for new i18n file fomats. I also worked on
+implementing new features for Transifex, like, Glossary, tag assignment, etc.
 
 
 ---------
@@ -161,14 +124,11 @@ Education
 ------------
 As a speaker
 ------------
-* **Software Freedom Day**, Kolkata, 2009
-* **FUDCON**, Pune, 2011
-* **Mukti, 2012** (NIT Durgapur's FOSS Tech. Fest), 2012
-* **FUDCON, Kuala Lumpur**, 2012
-* **Pycon India**, 2012
-* **Pycon India**, 2013
-* **Flock**, Prague, Czech Republic, 2014
-* **DGPLUG** 10 years meetup at NIT Durgapur, 2014
+**Software Freedom Day**, Kolkata, 2009``; **FUDCON, Pune**, 2011``;
+**Mukti, 2012** (NIT Durgapur's FOSS Tech. Fest);
+**FUDCON, Kuala Lumpur**, 2012; **Pycon India**, 2012 & 2013;
+**Flock**, Prague, Czech Republic, 2014;
+**DGPLUG** 10 years meetup at NIT Durgapur, 2014.
 
 
 ----------
