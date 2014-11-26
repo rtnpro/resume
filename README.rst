@@ -19,7 +19,7 @@ lot with MeteorJS. I am also working with Ansible for provisioning servers.
 I also contribute to The Fedora Project and Mozilla. I work at
 https://www.goibibo.com as a Senior Software Engineer. At work, I write
 intuitive, maintainable, scalable web apps using Python/Django. In
-my free time, I get my hands dirty with some devops stuffs, as well.
+my free time, I get my hands dirty with some infrastructure plumbing, as well.
 
 
 -----
@@ -35,7 +35,7 @@ Experience
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 - Present
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I'm heading *communication* and *CRM* tools development and engaging in
+I'm heading *communication* and *CRM* tools development, and also engaging in
 infrastructure plumbing as needed.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -133,11 +133,4 @@ As a speaker
 ----------
 References
 ----------
-- **Sankarshan Mukhopadhyay**, Engineering Manager at Red Hat,
-  sankarshan.mukhopadhyay AT gmail DOT com
-- **Kushal Das**, Fedora Cloud Engineer at Red Hat,
-  kushaldas AT gmail DOT com
-- **Dimitris Glezos**, CEO, Transifex, glezos AT transifex DOT com
-- **Runa Bhattacharjee**, Language Engineering QA and Developer Outreach,
-  runa.misc AT gmail DOT com
-
+Available on request.

@@ -106,7 +106,7 @@ endobj
 << /Outlines 36 0 R /PageLabels 54 0 R /PageMode /UseNone /Pages 51 0 R /Type /Catalog >>
 endobj
 35 0 obj
-<< /Author () /CreationDate (D:20141126142841-05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20141201080303-05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 36 0 obj
@@ -159,7 +159,7 @@ endobj
 << /Count 2 /Kids [ 12 0 R 33 0 R ] /Type /Pages >>
 endobj
 52 0 obj
-<< /Length 6083 >>
+<< /Length 6098 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -299,7 +299,7 @@ Q
 q
 1 0 0 1 62.69291 525.0236 cm
 q
-BT 1 0 0 1 0 74 Tm 1.320574 Tw 12 TL /F1 10 Tf 0 0 0 rg (I am a Free and Open Source Software contributor and evangelist. I am the creator and maintainer of) Tj T* 0 Tw .679979 Tw (Waartaa \() Tj 0 0 .501961 rg (https://www.waartaa.com) Tj 0 0 0 rg (\), an open source communication and collaboration tool for humans. I) Tj T* 0 Tw .466235 Tw (usually make web apps using Python/Django, however, lately, I have been working a lot with MeteorJS. I) Tj T* 0 Tw .22561 Tw (am also working with Ansible for provisioning servers. I also contribute to The Fedora Project and Mozilla.) Tj T* 0 Tw .693555 Tw (I work at ) Tj 0 0 .501961 rg (https://www.goibibo.com ) Tj 0 0 0 rg (as a Senior Software Engineer. At work, I write intuitive, maintainable,) Tj T* 0 Tw .136654 Tw (scalable web apps using Python/Django. In my free time, I get my hands dirty with some devops stuffs, as) Tj T* 0 Tw (well.) Tj T* ET
+BT 1 0 0 1 0 74 Tm 1.320574 Tw 12 TL /F1 10 Tf 0 0 0 rg (I am a Free and Open Source Software contributor and evangelist. I am the creator and maintainer of) Tj T* 0 Tw .679979 Tw (Waartaa \() Tj 0 0 .501961 rg (https://www.waartaa.com) Tj 0 0 0 rg (\), an open source communication and collaboration tool for humans. I) Tj T* 0 Tw .466235 Tw (usually make web apps using Python/Django, however, lately, I have been working a lot with MeteorJS. I) Tj T* 0 Tw .22561 Tw (am also working with Ansible for provisioning servers. I also contribute to The Fedora Project and Mozilla.) Tj T* 0 Tw .693555 Tw (I work at ) Tj 0 0 .501961 rg (https://www.goibibo.com ) Tj 0 0 0 rg (as a Senior Software Engineer. At work, I write intuitive, maintainable,) Tj T* 0 Tw 1.19686 Tw (scalable web apps using Python/Django. In my free time, I get my hands dirty with some infrastructure) Tj T* 0 Tw (plumbing, as well.) Tj T* ET
 Q
 Q
 q
@@ -330,7 +330,7 @@ Q
 q
 1 0 0 1 62.69291 363.0236 cm
 q
-BT 1 0 0 1 0 14 Tm 2.315814 Tw 12 TL /F1 10 Tf 0 0 0 rg (I'm heading ) Tj /F3 10 Tf (communication ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (CRM ) Tj /F1 10 Tf (tools development and engaging in infrastructure plumbing as) Tj T* 0 Tw (needed.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .299213 Tw 12 TL /F1 10 Tf 0 0 0 rg (I'm heading ) Tj /F3 10 Tf (communication ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (CRM ) Tj /F1 10 Tf (tools development, and also engaging in infrastructure plumbing as) Tj T* 0 Tw (needed.) Tj T* ET
 Q
 Q
 q
@@ -388,7 +388,7 @@ Q
 endstream
 endobj
 53 0 obj
-<< /Length 10449 >>
+<< /Length 8830 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -837,102 +837,11 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (References) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 210.0236 cm
-Q
-q
-1 0 0 1 62.69291 210.0236 cm
-Q
-q
-1 0 0 1 62.69291 186.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
+1 0 0 1 62.69291 204.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Available on request.) Tj T* ET
 Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 14 Tm 2.43622 Tw 12 TL /F2 10 Tf 0 0 0 rg (Sankarshan Mukhopadhyay) Tj /F1 10 Tf (, Engineering Manager at Red Hat, sankarshan.mukhopadhyay AT) Tj T* 0 Tw (gmail DOT com) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 180.0236 cm
-Q
-q
-1 0 0 1 62.69291 168.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Kushal Das) Tj /F1 10 Tf (, Fedora Cloud Engineer at Red Hat, kushaldas AT gmail DOT com) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 162.0236 cm
-Q
-q
-1 0 0 1 62.69291 150.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Dimitris Glezos) Tj /F1 10 Tf (, CEO, Transifex, glezos AT transifex DOT com) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 144.0236 cm
-Q
-q
-1 0 0 1 62.69291 120.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 14 Tm .257251 Tw 12 TL /F2 10 Tf 0 0 0 rg (Runa Bhattacharjee) Tj /F1 10 Tf (, Language Engineering QA and Developer Outreach, runa.misc AT gmail DOT) Tj T* 0 Tw (com) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 120.0236 cm
 Q
  
 endstream
@@ -1001,15 +910,15 @@ xref
 0000008681 00000 n
 0000008796 00000 n
 0000008867 00000 n
-0000015007 00000 n
-0000025514 00000 n
-0000025567 00000 n
-0000025604 00000 n
+0000015022 00000 n
+0000023909 00000 n
+0000023962 00000 n
+0000023999 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(tWr\225\012\(\032$\345|{\321\310b9N) (tWr\225\012\(\032$\345|{\321\310b9N)]
+ [(\036\234\354c\027}\260z\2447\354]\244G\244\333) (\036\234\354c\027}\260z\2447\354]\244G\244\333)]
  /Info 35 0 R /Root 34 0 R /Size 57 >>
 startxref
-25641
+24036
 %%EOF
