@@ -15,12 +15,11 @@ I am a Free and Open Source Software contributor and evangelist.
 I am the creator and maintainer of Waartaa (https://www.waartaa.com),
 an open source communication and collaboration tool for humans. I usually
 make web apps using Python/Django, however, lately, I have been working a
-lot with MeteorJS, for building Waartaa, and Ansible for provisioning
-servers for Waartaa. When I am not working on Waartaa, I also contribute
-to The FedoraProject and Mozilla. I work at https://www.goibibo.com as a
-Senior Software Engineer. At work, I write intuitive, maintainable,
-scalable web apps using Python/Django. In my free time, I get my hands
-dirty with some devops stuffs, as well.
+lot with MeteorJS. I am also working with Ansible for provisioning servers.
+I also contribute to The Fedora Project and Mozilla. I work at
+https://www.goibibo.com as a Senior Software Engineer. At work, I write
+intuitive, maintainable, scalable web apps using Python/Django. In
+my free time, I get my hands dirty with some devops stuffs, as well.
 
 
 -----
@@ -124,7 +123,7 @@ Education
 ------------
 As a speaker
 ------------
-**Software Freedom Day**, Kolkata, 2009``; **FUDCON, Pune**, 2011``;
+**Software Freedom Day**, Kolkata, 2009; **FUDCON, Pune**, 2011;
 **Mukti, 2012** (NIT Durgapur's FOSS Tech. Fest);
 **FUDCON, Kuala Lumpur**, 2012; **Pycon India**, 2012 & 2013;
 **Flock**, Prague, Czech Republic, 2014;
