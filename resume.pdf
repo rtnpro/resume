@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 10 0 R /F4 11 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 11 0 R /F4 13 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -22,144 +22,147 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://github.com/rtnpro) >> /Border [ 0 0 0 ] /Rect [ 115.1529 663.7736 222.9829 675.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 8 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.waartaa.com) >> /Border [ 0 0 0 ] /Rect [ 107.2729 585.7736 218.9729 597.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://in.linkedin.com/in/rtnpro) >> /Border [ 0 0 0 ] /Rect [ 129.0529 645.7736 264.6629 657.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.goibibo.com) >> /Border [ 0 0 0 ] /Rect [ 105.3436 549.7736 217.1871 561.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.waartaa.com) >> /Border [ 0 0 0 ] /Rect [ 107.2729 567.7736 218.9729 579.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 10 0 obj
-<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+<< /A << /S /URI /Type /Action /URI (https://www.goibibo.com) >> /Border [ 0 0 0 ] /Rect [ 105.3436 531.7736 217.1871 543.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 12 0 obj
-<< /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 52 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 51 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 53 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 13 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.waartaa.com) >> /Border [ 0 0 0 ] /Rect [ 85.69291 666.7736 123.4829 678.7736 ] /Subtype /Link /Type /Annot >>
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 14 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/fedora-infra) >> /Border [ 0 0 0 ] /Rect [ 141.2729 648.7736 195.7429 660.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.waartaa.com) >> /Border [ 0 0 0 ] /Rect [ 85.69291 615.7736 123.4829 627.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 15 0 obj
-<< /A << /S /URI /Type /Action /URI (http://goo.gl/j66e68) >> /Border [ 0 0 0 ] /Rect [ 85.69291 630.7736 206.3129 642.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/fedora-infra) >> /Border [ 0 0 0 ] /Rect [ 141.2729 597.7736 195.7429 609.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 16 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/django/django/commit/5449240c548bb6877923791d02e800c6b25393f5) >> /Border [ 0 0 0 ] /Rect [ 85.69291 612.7736 116.2629 624.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://goo.gl/j66e68) >> /Border [ 0 0 0 ] /Rect [ 85.69291 579.7736 206.3129 591.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 17 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.djangoproject.com) >> /Border [ 0 0 0 ] /Rect [ 130.7129 612.7736 162.3929 624.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/django/django/commit/5449240c548bb6877923791d02e800c6b25393f5) >> /Border [ 0 0 0 ] /Rect [ 85.69291 561.7736 116.2629 573.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 18 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/transifex/transifex/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 131.8129 594.7736 186.2829 606.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.djangoproject.com) >> /Border [ 0 0 0 ] /Rect [ 130.7129 561.7736 162.3929 573.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 19 0 obj
-<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/transifex) >> /Border [ 0 0 0 ] /Rect [ 197.4029 594.7736 238.5229 606.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/transifex/transifex/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 131.8129 543.7736 186.2829 555.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 20 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/mathjazz/pontoon/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 576.7736 240.2229 588.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/transifex) >> /Border [ 0 0 0 ] /Rect [ 197.4029 543.7736 238.5229 555.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 21 0 obj
-<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/mathjazz/pontoon) >> /Border [ 0 0 0 ] /Rect [ 254.6729 576.7736 291.9229 588.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mathjazz/pontoon/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 525.7736 240.2229 537.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 22 0 obj
-<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/rtnpro/django-pontoon-hook) >> /Border [ 0 0 0 ] /Rect [ 85.69291 558.7736 180.1929 570.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/mathjazz/pontoon) >> /Border [ 0 0 0 ] /Rect [ 254.6729 525.7736 291.9229 537.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 23 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/erikrose/nose-progressive/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 540.7736 116.2629 552.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/rtnpro/django-pontoon-hook) >> /Border [ 0 0 0 ] /Rect [ 85.69291 507.7736 180.1929 519.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 24 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/erikrose/nose-progressive) >> /Border [ 0 0 0 ] /Rect [ 126.8229 540.7736 203.5129 552.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/erikrose/nose-progressive/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 489.7736 116.2629 501.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 25 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/pywebcrawler) >> /Border [ 0 0 0 ] /Rect [ 85.69291 522.7736 146.8129 534.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/erikrose/nose-progressive) >> /Border [ 0 0 0 ] /Rect [ 126.8229 489.7736 203.5129 501.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 26 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/wordgroupz) >> /Border [ 0 0 0 ] /Rect [ 85.69291 504.7736 140.1529 516.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/pywebcrawler) >> /Border [ 0 0 0 ] /Rect [ 85.69291 471.7736 146.8129 483.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 27 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/wordcollections) >> /Border [ 0 0 0 ] /Rect [ 85.69291 486.7736 158.4829 498.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/wordgroupz) >> /Border [ 0 0 0 ] /Rect [ 85.69291 453.7736 140.1529 465.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 28 0 obj
-<< /A << /S /URI /Type /Action /URI (http://gitorious.org/~shakthimaan/fedx/shakthimaans-clone) >> /Border [ 0 0 0 ] /Rect [ 85.69291 468.7736 109.5929 480.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/wordcollections) >> /Border [ 0 0 0 ] /Rect [ 85.69291 435.7736 158.4829 447.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 29 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/endor/kettu/commit/5d3a64c4807eee6bbfbb2d3013e384971930bca8) >> /Border [ 0 0 0 ] /Rect [ 85.69291 450.7736 182.9629 462.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://gitorious.org/~shakthimaan/fedx/shakthimaans-clone) >> /Border [ 0 0 0 ] /Rect [ 85.69291 417.7736 109.5929 429.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 30 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/endor/kettu/) >> /Border [ 0 0 0 ] /Rect [ 193.5229 450.7736 216.8729 462.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/endor/kettu/commit/5d3a64c4807eee6bbfbb2d3013e384971930bca8) >> /Border [ 0 0 0 ] /Rect [ 85.69291 399.7736 182.9629 411.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 31 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/askbot-devel/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 432.7736 240.2229 444.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/endor/kettu/) >> /Border [ 0 0 0 ] /Rect [ 193.5229 399.7736 216.8729 411.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 32 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/ASKBOT/askbot-devel) >> /Border [ 0 0 0 ] /Rect [ 254.6729 432.7736 285.2429 444.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/askbot-devel/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 381.7736 240.2229 393.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 33 0 obj
-<< /Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 
-  23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R ] /Contents 53 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 51 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ASKBOT/askbot-devel) >> /Border [ 0 0 0 ] /Rect [ 254.6729 381.7736 285.2429 393.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 34 0 obj
-<< /Outlines 36 0 R /PageLabels 54 0 R /PageMode /UseNone /Pages 51 0 R /Type /Catalog >>
+<< /Annots [ 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 
+  24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R ] /Contents 54 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 35 0 obj
-<< /Author () /CreationDate (D:20141201080303-05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title () >>
+<< /Outlines 37 0 R /PageLabels 55 0 R /PageMode /UseNone /Pages 52 0 R /Type /Catalog >>
 endobj
 36 0 obj
-<< /Count 15 /First 37 0 R /Last 50 0 R /Type /Outlines >>
+<< /Author () /CreationDate (D:20141212235908-05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
 endobj
 37 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /Next 38 0 R /Parent 36 0 R /Title (Ratnadeep Debnath) >>
+<< /Count 15 /First 38 0 R /Last 51 0 R /Type /Outlines >>
 endobj
 38 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 636.0236 0 ] /Next 39 0 R /Parent 36 0 R /Prev 37 0 R /Title (Summary) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /Next 39 0 R /Parent 37 0 R /Title (Ratnadeep Debnath) >>
 endobj
 39 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 513.0236 0 ] /Next 40 0 R /Parent 36 0 R /Prev 38 0 R /Title (Goals) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 618.0236 0 ] /Next 40 0 R /Parent 37 0 R /Prev 38 0 R /Title (Summary) >>
 endobj
 40 0 obj
-<< /Count 4 /Dest [ 12 0 R /XYZ 62.69291 462.0236 0 ] /First 41 0 R /Last 44 0 R /Next 45 0 R /Parent 36 0 R 
-  /Prev 39 0 R /Title (Experience) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 495.0236 0 ] /Next 41 0 R /Parent 37 0 R /Prev 39 0 R /Title (Goals) >>
 endobj
 41 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 429.0236 0 ] /Next 42 0 R /Parent 40 0 R /Title (Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 - Present) >>
+<< /Count 4 /Dest [ 12 0 R /XYZ 62.69291 444.0236 0 ] /First 42 0 R /Last 45 0 R /Next 46 0 R /Parent 37 0 R 
+  /Prev 40 0 R /Title (Experience) >>
 endobj
 42 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 351.0236 0 ] /Next 43 0 R /Parent 40 0 R /Prev 41 0 R /Title (Software Engineer at Ibibo Group Pvt. Ltd., February 2013 - April 2014) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 411.0236 0 ] /Next 43 0 R /Parent 41 0 R /Title (Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 - Present) >>
 endobj
 43 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 273.0236 0 ] /Next 44 0 R /Parent 40 0 R /Prev 42 0 R /Title (Software Developer and QA at Transifex , September 2011 \205 January 2013) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 333.0236 0 ] /Next 44 0 R /Parent 41 0 R /Prev 42 0 R /Title (Software Engineer at Ibibo Group Pvt. Ltd., February 2013 - April 2014) >>
 endobj
 44 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 183.0236 0 ] /Parent 40 0 R /Prev 43 0 R /Title (Summer Intern at Transifex , June 2011 - August 2011 \(3 months\)) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 255.0236 0 ] /Next 45 0 R /Parent 41 0 R /Prev 43 0 R /Title (Software Developer and QA at Transifex , September 2011 \205 January 2013) >>
 endobj
 45 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 123.0236 0 ] /Next 46 0 R /Parent 36 0 R /Prev 40 0 R /Title (Interests) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 165.0236 0 ] /Parent 41 0 R /Prev 44 0 R /Title (Summer Intern at Transifex , June 2011 - August 2011 \(3 months\)) >>
 endobj
 46 0 obj
-<< /Dest [ 33 0 R /XYZ 62.69291 765.0236 0 ] /Next 47 0 R /Parent 36 0 R /Prev 45 0 R /Title (Skills) >>
+<< /Dest [ 34 0 R /XYZ 62.69291 765.0236 0 ] /Next 47 0 R /Parent 37 0 R /Prev 41 0 R /Title (Interests) >>
 endobj
 47 0 obj
-<< /Dest [ 33 0 R /XYZ 62.69291 714.0236 0 ] /Next 48 0 R /Parent 36 0 R /Prev 46 0 R /Title (Projects) >>
+<< /Dest [ 34 0 R /XYZ 62.69291 714.0236 0 ] /Next 48 0 R /Parent 37 0 R /Prev 46 0 R /Title (Skills) >>
 endobj
 48 0 obj
-<< /Dest [ 33 0 R /XYZ 62.69291 423.0236 0 ] /Next 49 0 R /Parent 36 0 R /Prev 47 0 R /Title (Education) >>
+<< /Dest [ 34 0 R /XYZ 62.69291 663.0236 0 ] /Next 49 0 R /Parent 37 0 R /Prev 47 0 R /Title (Projects) >>
 endobj
 49 0 obj
-<< /Dest [ 33 0 R /XYZ 62.69291 318.0236 0 ] /Next 50 0 R /Parent 36 0 R /Prev 48 0 R /Title (As a speaker) >>
+<< /Dest [ 34 0 R /XYZ 62.69291 372.0236 0 ] /Next 50 0 R /Parent 37 0 R /Prev 48 0 R /Title (Education) >>
 endobj
 50 0 obj
-<< /Dest [ 33 0 R /XYZ 62.69291 243.0236 0 ] /Parent 36 0 R /Prev 49 0 R /Title (References) >>
+<< /Dest [ 34 0 R /XYZ 62.69291 267.0236 0 ] /Next 51 0 R /Parent 37 0 R /Prev 49 0 R /Title (As a speaker) >>
 endobj
 51 0 obj
-<< /Count 2 /Kids [ 12 0 R 33 0 R ] /Type /Pages >>
+<< /Dest [ 34 0 R /XYZ 62.69291 192.0236 0 ] /Parent 37 0 R /Prev 50 0 R /Title (References) >>
 endobj
 52 0 obj
-<< /Length 6098 >>
+<< /Count 2 /Kids [ 12 0 R 34 0 R ] /Type /Pages >>
+endobj
+53 0 obj
+<< /Length 5911 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -280,6 +283,29 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (LinkedIn: ) Tj 0 0 .501961 rg (https://in.linkedin.com/in/rtnpro) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Mobile: \(+91\)7829649042) Tj T* ET
 Q
@@ -288,135 +314,135 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 648.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 615.0236 cm
+1 0 0 1 62.69291 597.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Summary) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 525.0236 cm
+1 0 0 1 62.69291 507.0236 cm
 q
 BT 1 0 0 1 0 74 Tm 1.320574 Tw 12 TL /F1 10 Tf 0 0 0 rg (I am a Free and Open Source Software contributor and evangelist. I am the creator and maintainer of) Tj T* 0 Tw .679979 Tw (Waartaa \() Tj 0 0 .501961 rg (https://www.waartaa.com) Tj 0 0 0 rg (\), an open source communication and collaboration tool for humans. I) Tj T* 0 Tw .466235 Tw (usually make web apps using Python/Django, however, lately, I have been working a lot with MeteorJS. I) Tj T* 0 Tw .22561 Tw (am also working with Ansible for provisioning servers. I also contribute to The Fedora Project and Mozilla.) Tj T* 0 Tw .693555 Tw (I work at ) Tj 0 0 .501961 rg (https://www.goibibo.com ) Tj 0 0 0 rg (as a Senior Software Engineer. At work, I write intuitive, maintainable,) Tj T* 0 Tw 1.19686 Tw (scalable web apps using Python/Django. In my free time, I get my hands dirty with some infrastructure) Tj T* 0 Tw (plumbing, as well.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 492.0236 cm
+1 0 0 1 62.69291 474.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Goals) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 474.0236 cm
+1 0 0 1 62.69291 456.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use my skills to create open and transparent solutions to help make the world a better place.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Experience) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 375.0236 cm
 q
 BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 0 0 rg (Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 -) Tj T* (Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 62.69291 345.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .299213 Tw 12 TL /F1 10 Tf 0 0 0 rg (I'm heading ) Tj /F3 10 Tf (communication ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (CRM ) Tj /F1 10 Tf (tools development, and also engaging in infrastructure plumbing as) Tj T* 0 Tw (needed.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 315.0236 cm
+1 0 0 1 62.69291 297.0236 cm
 q
 BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 0 0 rg (Software Engineer at Ibibo Group Pvt. Ltd., February 2013 - April) Tj T* (2014) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 285.0236 cm
+1 0 0 1 62.69291 267.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.238651 Tw (Involved in web development for Goibibo: Flights and Go \(a dynamic packaging product\). It was an) Tj T* 0 Tw (awesome experience to create apps which power various platforms like web, iOS, Android.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 237.0236 cm
+1 0 0 1 62.69291 219.0236 cm
 q
 BT 1 0 0 1 0 21 Tm 18 TL /F2 15 Tf 0 0 0 rg (Software Developer and QA at Transifex , September 2011 \226) Tj T* (January 2013) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 195.0236 cm
+1 0 0 1 62.69291 177.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .134269 Tw (At Transifex, I developed new features, enhanced existing ones and implemented support for various i18n) Tj T* 0 Tw .84811 Tw (file formats. I also improved and maintained the test suite, added more tests to improve code coverage.) Tj T* 0 Tw (User support, bug triagging and bug fixing were also part of my job.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 165.0236 cm
+1 0 0 1 62.69291 147.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Summer Intern at Transifex , June 2011 - August 2011 \(3 months\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 135.0236 cm
+1 0 0 1 62.69291 117.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .792651 Tw (I contributed to Transifex, increased test coverage for Transifex, fixed bugs, added support for new i18n) Tj T* 0 Tw (file fomats. I also worked on implementing new features for Transifex, like, Glossary, tag assignment, etc.) Tj T* ET
 Q
 Q
-q
-1 0 0 1 62.69291 102.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Interests) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 84.02362 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (FOSS) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Web) Tj ( ) Tj (development) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Fedora) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Scaling) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Analytics) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Infrastructure) Tj ( ) Tj (management) Tj T* ET
-Q
-Q
  
 endstream
 endobj
-53 0 obj
-<< /Length 8830 >>
+54 0 obj
+<< /Length 9389 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 744.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Skills) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Interests) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 726.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Python) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Django) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (MeteorJS) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (JavaScript) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (jQuery) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Testing) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (CSS) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (HTML) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (AJAX) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Linux) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Ansible) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (FOSS) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Web) Tj ( ) Tj (development) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Fedora) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Scaling) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Analytics) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Infrastructure) Tj ( ) Tj (management) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 693.0236 cm
 q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (Python) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Django) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (MeteorJS) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (JavaScript) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (jQuery) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Testing) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (CSS) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (HTML) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (AJAX) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Linux) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (Ansible) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Projects) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 681.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 681.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 669.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -436,10 +462,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 663.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 Q
 q
-1 0 0 1 62.69291 651.0236 cm
+1 0 0 1 62.69291 600.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -459,10 +485,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 Q
 q
-1 0 0 1 62.69291 633.0236 cm
+1 0 0 1 62.69291 582.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -482,10 +508,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 627.0236 cm
+1 0 0 1 62.69291 576.0236 cm
 Q
 q
-1 0 0 1 62.69291 615.0236 cm
+1 0 0 1 62.69291 564.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -505,10 +531,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 609.0236 cm
+1 0 0 1 62.69291 558.0236 cm
 Q
 q
-1 0 0 1 62.69291 597.0236 cm
+1 0 0 1 62.69291 546.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -528,10 +554,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 591.0236 cm
+1 0 0 1 62.69291 540.0236 cm
 Q
 q
-1 0 0 1 62.69291 579.0236 cm
+1 0 0 1 62.69291 528.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -551,10 +577,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 522.0236 cm
 Q
 q
-1 0 0 1 62.69291 561.0236 cm
+1 0 0 1 62.69291 510.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -574,10 +600,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 555.0236 cm
+1 0 0 1 62.69291 504.0236 cm
 Q
 q
-1 0 0 1 62.69291 543.0236 cm
+1 0 0 1 62.69291 492.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -597,10 +623,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 537.0236 cm
+1 0 0 1 62.69291 486.0236 cm
 Q
 q
-1 0 0 1 62.69291 525.0236 cm
+1 0 0 1 62.69291 474.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -620,10 +646,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 519.0236 cm
+1 0 0 1 62.69291 468.0236 cm
 Q
 q
-1 0 0 1 62.69291 507.0236 cm
+1 0 0 1 62.69291 456.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -643,10 +669,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 450.0236 cm
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 438.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -666,10 +692,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 483.0236 cm
+1 0 0 1 62.69291 432.0236 cm
 Q
 q
-1 0 0 1 62.69291 471.0236 cm
+1 0 0 1 62.69291 420.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -689,10 +715,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 465.0236 cm
+1 0 0 1 62.69291 414.0236 cm
 Q
 q
-1 0 0 1 62.69291 453.0236 cm
+1 0 0 1 62.69291 402.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -712,10 +738,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 62.69291 396.0236 cm
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 384.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -735,22 +761,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 384.0236 cm
 Q
 q
-1 0 0 1 62.69291 402.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 390.0236 cm
+1 0 0 1 62.69291 339.0236 cm
 Q
 q
-1 0 0 1 62.69291 390.0236 cm
+1 0 0 1 62.69291 339.0236 cm
 Q
 q
-1 0 0 1 62.69291 366.0236 cm
+1 0 0 1 62.69291 315.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -770,10 +796,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 360.0236 cm
+1 0 0 1 62.69291 309.0236 cm
 Q
 q
-1 0 0 1 62.69291 348.0236 cm
+1 0 0 1 62.69291 297.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -793,10 +819,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 342.0236 cm
+1 0 0 1 62.69291 291.0236 cm
 Q
 q
-1 0 0 1 62.69291 330.0236 cm
+1 0 0 1 62.69291 279.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -816,28 +842,28 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 330.0236 cm
+1 0 0 1 62.69291 279.0236 cm
 Q
 q
-1 0 0 1 62.69291 297.0236 cm
+1 0 0 1 62.69291 246.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (As a speaker) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 255.0236 cm
+1 0 0 1 62.69291 204.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 2.134147 Tw 12 TL /F2 10 Tf 0 0 0 rg (Software Freedom Day) Tj /F1 10 Tf (, Kolkata, 2009; ) Tj /F2 10 Tf (FUDCON, Pune) Tj /F1 10 Tf (, 2011; ) Tj /F2 10 Tf (Mukti, 2012 ) Tj /F1 10 Tf (\(NIT Durgapur's FOSS) Tj T* 0 Tw 3.31229 Tw (Tech. Fest\); ) Tj /F2 10 Tf (FUDCON, Kuala Lumpur) Tj /F1 10 Tf (, 2012; ) Tj /F2 10 Tf (Pycon India) Tj /F1 10 Tf (, 2012 & 2013; ) Tj /F2 10 Tf (Flock) Tj /F1 10 Tf (, Prague, Czech) Tj T* 0 Tw (Republic, 2014; ) Tj /F2 10 Tf (DGPLUG ) Tj /F1 10 Tf (10 years meetup at NIT Durgapur, 2014.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 222.0236 cm
+1 0 0 1 62.69291 171.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (References) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 204.0236 cm
+1 0 0 1 62.69291 153.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Available on request.) Tj T* ET
@@ -846,17 +872,17 @@ Q
  
 endstream
 endobj
-54 0 obj
-<< /Nums [ 0 55 0 R 1 56 0 R ] >>
-endobj
 55 0 obj
-<< /S /D /St 1 >>
+<< /Nums [ 0 56 0 R 1 57 0 R ] >>
 endobj
 56 0 obj
+<< /S /D /St 1 >>
+endobj
+57 0 obj
 << /S /D /St 2 >>
 endobj
 xref
-0 57
+0 58
 0000000000 65535 f
 0000000075 00000 n
 0000000141 00000 n
@@ -866,59 +892,60 @@ xref
 0000000725 00000 n
 0000000901 00000 n
 0000001081 00000 n
-0000001259 00000 n
-0000001437 00000 n
-0000001556 00000 n
-0000001665 00000 n
-0000001923 00000 n
-0000002102 00000 n
-0000002289 00000 n
-0000002465 00000 n
-0000002701 00000 n
-0000002886 00000 n
-0000003103 00000 n
-0000003313 00000 n
-0000003527 00000 n
-0000003744 00000 n
-0000003971 00000 n
-0000004194 00000 n
-0000004394 00000 n
-0000004588 00000 n
-0000004780 00000 n
-0000004977 00000 n
-0000005190 00000 n
-0000005424 00000 n
-0000005611 00000 n
-0000005828 00000 n
-0000006022 00000 n
-0000006388 00000 n
-0000006497 00000 n
-0000006708 00000 n
-0000006786 00000 n
-0000006908 00000 n
-0000007033 00000 n
-0000007156 00000 n
-0000007324 00000 n
-0000007498 00000 n
-0000007686 00000 n
-0000007877 00000 n
-0000008047 00000 n
-0000008174 00000 n
-0000008298 00000 n
-0000008424 00000 n
-0000008551 00000 n
-0000008681 00000 n
-0000008796 00000 n
-0000008867 00000 n
-0000015022 00000 n
-0000023909 00000 n
-0000023962 00000 n
-0000023999 00000 n
+0000001269 00000 n
+0000001447 00000 n
+0000001626 00000 n
+0000001745 00000 n
+0000002010 00000 n
+0000002119 00000 n
+0000002298 00000 n
+0000002485 00000 n
+0000002661 00000 n
+0000002897 00000 n
+0000003082 00000 n
+0000003299 00000 n
+0000003509 00000 n
+0000003723 00000 n
+0000003940 00000 n
+0000004167 00000 n
+0000004390 00000 n
+0000004590 00000 n
+0000004784 00000 n
+0000004976 00000 n
+0000005173 00000 n
+0000005386 00000 n
+0000005620 00000 n
+0000005807 00000 n
+0000006024 00000 n
+0000006218 00000 n
+0000006584 00000 n
+0000006693 00000 n
+0000006904 00000 n
+0000006982 00000 n
+0000007104 00000 n
+0000007229 00000 n
+0000007352 00000 n
+0000007520 00000 n
+0000007694 00000 n
+0000007882 00000 n
+0000008073 00000 n
+0000008243 00000 n
+0000008370 00000 n
+0000008494 00000 n
+0000008620 00000 n
+0000008747 00000 n
+0000008877 00000 n
+0000008992 00000 n
+0000009063 00000 n
+0000015031 00000 n
+0000024477 00000 n
+0000024530 00000 n
+0000024567 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\036\234\354c\027}\260z\2447\354]\244G\244\333) (\036\234\354c\027}\260z\2447\354]\244G\244\333)]
- /Info 35 0 R /Root 34 0 R /Size 57 >>
+ [(i\344\227\372\303M\317\227u>\347D`t&\265) (i\344\227\372\303M\317\227u>\347D`t&\265)]
+ /Info 36 0 R /Root 35 0 R /Size 58 >>
 startxref
-24036
+24604
 %%EOF

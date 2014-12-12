@@ -5,6 +5,7 @@ Ratnadeep Debnath
 * Twitter: https://twitter.com/rtnpro
 * Blog: http://www.rtnpro.com
 * Code: https://github.com/rtnpro
+* LinkedIn: https://in.linkedin.com/in/rtnpro
 * Mobile: (+91)7829649042
 
 
