@@ -85,13 +85,14 @@ Projects
 * `Bugfixes and new features <http://goo.gl/j66e68>`_ for for Firefox
 * `Bugfix <https://github.com/django/django/commit/5449240c548bb6877923791d02e800c6b25393f5>`_
   for `Django <https://www.djangoproject.com>`_
+* Contributing to `Wikimedia <https://www.wikimedia.org/>`_ analytics projects
 * Upstream `contribution
   <https://github.com/transifex/transifex/commits/?author=rtnpro>`_
   to `Transifex <github.com/transifex>`_
 * `Bugfixes and feature development
   <https://github.com/mathjazz/pontoon/commits/?author=rtnpro>`_ for
   `Pontoon <github.com/mathjazz/pontoon>`_
-* `django-pontoon-hook <github.com/rtnpro/django-pontoon-hook>`_, a hook
+* `django-pontoon-hook <https://github.com/rtnpro/django-pontoon-hook>`_, a hook
   for Django applications to use Pontoon for localization
 * `Bugfix <https://github.com/erikrose/nose-progressive/commits/?author=rtnpro>`_
   in `nose-progressive <https://github.com/erikrose/nose-progressive>`_

@@ -34,7 +34,7 @@ endobj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 12 0 obj
-<< /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 53 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 54 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 13 0 obj
@@ -56,112 +56,116 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://www.djangoproject.com) >> /Border [ 0 0 0 ] /Rect [ 130.7129 561.7736 162.3929 573.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 19 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/transifex/transifex/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 131.8129 543.7736 186.2829 555.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.wikimedia.org/) >> /Border [ 0 0 0 ] /Rect [ 153.5029 543.7736 202.3929 555.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 20 0 obj
-<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/transifex) >> /Border [ 0 0 0 ] /Rect [ 197.4029 543.7736 238.5229 555.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/transifex/transifex/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 131.8129 525.7736 186.2829 537.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 21 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/mathjazz/pontoon/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 525.7736 240.2229 537.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/transifex) >> /Border [ 0 0 0 ] /Rect [ 197.4029 525.7736 238.5229 537.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 22 0 obj
-<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/mathjazz/pontoon) >> /Border [ 0 0 0 ] /Rect [ 254.6729 525.7736 291.9229 537.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/mathjazz/pontoon/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 507.7736 240.2229 519.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 23 0 obj
-<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/rtnpro/django-pontoon-hook) >> /Border [ 0 0 0 ] /Rect [ 85.69291 507.7736 180.1929 519.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (file:///home/rtnpro/github/resume/github.com/mathjazz/pontoon) >> /Border [ 0 0 0 ] /Rect [ 254.6729 507.7736 291.9229 519.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 24 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/erikrose/nose-progressive/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 489.7736 116.2629 501.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/django-pontoon-hook) >> /Border [ 0 0 0 ] /Rect [ 85.69291 489.7736 180.1929 501.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 25 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/erikrose/nose-progressive) >> /Border [ 0 0 0 ] /Rect [ 126.8229 489.7736 203.5129 501.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/erikrose/nose-progressive/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 471.7736 116.2629 483.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 26 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/pywebcrawler) >> /Border [ 0 0 0 ] /Rect [ 85.69291 471.7736 146.8129 483.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/erikrose/nose-progressive) >> /Border [ 0 0 0 ] /Rect [ 126.8229 471.7736 203.5129 483.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 27 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/wordgroupz) >> /Border [ 0 0 0 ] /Rect [ 85.69291 453.7736 140.1529 465.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/pywebcrawler) >> /Border [ 0 0 0 ] /Rect [ 85.69291 453.7736 146.8129 465.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 28 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/wordcollections) >> /Border [ 0 0 0 ] /Rect [ 85.69291 435.7736 158.4829 447.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/wordgroupz) >> /Border [ 0 0 0 ] /Rect [ 85.69291 435.7736 140.1529 447.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 29 0 obj
-<< /A << /S /URI /Type /Action /URI (http://gitorious.org/~shakthimaan/fedx/shakthimaans-clone) >> /Border [ 0 0 0 ] /Rect [ 85.69291 417.7736 109.5929 429.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/wordcollections) >> /Border [ 0 0 0 ] /Rect [ 85.69291 417.7736 158.4829 429.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 30 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/endor/kettu/commit/5d3a64c4807eee6bbfbb2d3013e384971930bca8) >> /Border [ 0 0 0 ] /Rect [ 85.69291 399.7736 182.9629 411.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://gitorious.org/~shakthimaan/fedx/shakthimaans-clone) >> /Border [ 0 0 0 ] /Rect [ 85.69291 399.7736 109.5929 411.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 31 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/endor/kettu/) >> /Border [ 0 0 0 ] /Rect [ 193.5229 399.7736 216.8729 411.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/endor/kettu/commit/5d3a64c4807eee6bbfbb2d3013e384971930bca8) >> /Border [ 0 0 0 ] /Rect [ 85.69291 381.7736 182.9629 393.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 32 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/askbot-devel/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 381.7736 240.2229 393.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/endor/kettu/) >> /Border [ 0 0 0 ] /Rect [ 193.5229 381.7736 216.8729 393.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 33 0 obj
-<< /A << /S /URI /Type /Action /URI (https://github.com/ASKBOT/askbot-devel) >> /Border [ 0 0 0 ] /Rect [ 254.6729 381.7736 285.2429 393.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/rtnpro/askbot-devel/commits/?author=rtnpro) >> /Border [ 0 0 0 ] /Rect [ 85.69291 363.7736 240.2229 375.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 34 0 obj
-<< /Annots [ 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 
-  24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R ] /Contents 54 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 52 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (https://github.com/ASKBOT/askbot-devel) >> /Border [ 0 0 0 ] /Rect [ 254.6729 363.7736 285.2429 375.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 35 0 obj
-<< /Outlines 37 0 R /PageLabels 55 0 R /PageMode /UseNone /Pages 52 0 R /Type /Catalog >>
+<< /Annots [ 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 
+  24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 
+  34 0 R ] /Contents 55 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 36 0 obj
-<< /Author () /CreationDate (D:20141212235908-05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
-  /Title () >>
+<< /Outlines 38 0 R /PageLabels 56 0 R /PageMode /UseNone /Pages 53 0 R /Type /Catalog >>
 endobj
 37 0 obj
-<< /Count 15 /First 38 0 R /Last 51 0 R /Type /Outlines >>
+<< /Author () /CreationDate (D:20150114101934-05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title () >>
 endobj
 38 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /Next 39 0 R /Parent 37 0 R /Title (Ratnadeep Debnath) >>
+<< /Count 15 /First 39 0 R /Last 52 0 R /Type /Outlines >>
 endobj
 39 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 618.0236 0 ] /Next 40 0 R /Parent 37 0 R /Prev 38 0 R /Title (Summary) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /Next 40 0 R /Parent 38 0 R /Title (Ratnadeep Debnath) >>
 endobj
 40 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 495.0236 0 ] /Next 41 0 R /Parent 37 0 R /Prev 39 0 R /Title (Goals) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 618.0236 0 ] /Next 41 0 R /Parent 38 0 R /Prev 39 0 R /Title (Summary) >>
 endobj
 41 0 obj
-<< /Count 4 /Dest [ 12 0 R /XYZ 62.69291 444.0236 0 ] /First 42 0 R /Last 45 0 R /Next 46 0 R /Parent 37 0 R 
-  /Prev 40 0 R /Title (Experience) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 495.0236 0 ] /Next 42 0 R /Parent 38 0 R /Prev 40 0 R /Title (Goals) >>
 endobj
 42 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 411.0236 0 ] /Next 43 0 R /Parent 41 0 R /Title (Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 - Present) >>
+<< /Count 4 /Dest [ 12 0 R /XYZ 62.69291 444.0236 0 ] /First 43 0 R /Last 46 0 R /Next 47 0 R /Parent 38 0 R 
+  /Prev 41 0 R /Title (Experience) >>
 endobj
 43 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 333.0236 0 ] /Next 44 0 R /Parent 41 0 R /Prev 42 0 R /Title (Software Engineer at Ibibo Group Pvt. Ltd., February 2013 - April 2014) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 411.0236 0 ] /Next 44 0 R /Parent 42 0 R /Title (Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 - Present) >>
 endobj
 44 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 255.0236 0 ] /Next 45 0 R /Parent 41 0 R /Prev 43 0 R /Title (Software Developer and QA at Transifex , September 2011 \205 January 2013) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 333.0236 0 ] /Next 45 0 R /Parent 42 0 R /Prev 43 0 R /Title (Software Engineer at Ibibo Group Pvt. Ltd., February 2013 - April 2014) >>
 endobj
 45 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 165.0236 0 ] /Parent 41 0 R /Prev 44 0 R /Title (Summer Intern at Transifex , June 2011 - August 2011 \(3 months\)) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 255.0236 0 ] /Next 46 0 R /Parent 42 0 R /Prev 44 0 R /Title (Software Developer and QA at Transifex , September 2011 \205 January 2013) >>
 endobj
 46 0 obj
-<< /Dest [ 34 0 R /XYZ 62.69291 765.0236 0 ] /Next 47 0 R /Parent 37 0 R /Prev 41 0 R /Title (Interests) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 165.0236 0 ] /Parent 42 0 R /Prev 45 0 R /Title (Summer Intern at Transifex , June 2011 - August 2011 \(3 months\)) >>
 endobj
 47 0 obj
-<< /Dest [ 34 0 R /XYZ 62.69291 714.0236 0 ] /Next 48 0 R /Parent 37 0 R /Prev 46 0 R /Title (Skills) >>
+<< /Dest [ 35 0 R /XYZ 62.69291 765.0236 0 ] /Next 48 0 R /Parent 38 0 R /Prev 42 0 R /Title (Interests) >>
 endobj
 48 0 obj
-<< /Dest [ 34 0 R /XYZ 62.69291 663.0236 0 ] /Next 49 0 R /Parent 37 0 R /Prev 47 0 R /Title (Projects) >>
+<< /Dest [ 35 0 R /XYZ 62.69291 714.0236 0 ] /Next 49 0 R /Parent 38 0 R /Prev 47 0 R /Title (Skills) >>
 endobj
 49 0 obj
-<< /Dest [ 34 0 R /XYZ 62.69291 372.0236 0 ] /Next 50 0 R /Parent 37 0 R /Prev 48 0 R /Title (Education) >>
+<< /Dest [ 35 0 R /XYZ 62.69291 663.0236 0 ] /Next 50 0 R /Parent 38 0 R /Prev 48 0 R /Title (Projects) >>
 endobj
 50 0 obj
-<< /Dest [ 34 0 R /XYZ 62.69291 267.0236 0 ] /Next 51 0 R /Parent 37 0 R /Prev 49 0 R /Title (As a speaker) >>
+<< /Dest [ 35 0 R /XYZ 62.69291 354.0236 0 ] /Next 51 0 R /Parent 38 0 R /Prev 49 0 R /Title (Education) >>
 endobj
 51 0 obj
-<< /Dest [ 34 0 R /XYZ 62.69291 192.0236 0 ] /Parent 37 0 R /Prev 50 0 R /Title (References) >>
+<< /Dest [ 35 0 R /XYZ 62.69291 249.0236 0 ] /Next 52 0 R /Parent 38 0 R /Prev 50 0 R /Title (As a speaker) >>
 endobj
 52 0 obj
-<< /Count 2 /Kids [ 12 0 R 34 0 R ] /Type /Pages >>
+<< /Dest [ 35 0 R /XYZ 62.69291 174.0236 0 ] /Parent 38 0 R /Prev 51 0 R /Title (References) >>
 endobj
 53 0 obj
+<< /Count 2 /Kids [ 12 0 R 35 0 R ] /Type /Pages >>
+endobj
+54 0 obj
 << /Length 5911 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -401,8 +405,8 @@ Q
  
 endstream
 endobj
-54 0 obj
-<< /Length 9389 >>
+55 0 obj
+<< /Length 9777 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -547,7 +551,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Upstream ) Tj 0 0 .501961 rg (contribution ) Tj 0 0 0 rg (to ) Tj 0 0 .501961 rg (Transifex) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Contributing to ) Tj 0 0 .501961 rg (Wikimedia ) Tj 0 0 0 rg (analytics projects) Tj T* ET
 Q
 Q
 q
@@ -570,7 +574,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Bugfixes and feature development ) Tj 0 0 0 rg (for ) Tj 0 0 .501961 rg (Pontoon) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Upstream ) Tj 0 0 .501961 rg (contribution ) Tj 0 0 0 rg (to ) Tj 0 0 .501961 rg (Transifex) Tj  T* ET
 Q
 Q
 q
@@ -593,7 +597,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (django-pontoon-hook) Tj 0 0 0 rg (, a hook for Django applications to use Pontoon for localization) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Bugfixes and feature development ) Tj 0 0 0 rg (for ) Tj 0 0 .501961 rg (Pontoon) Tj  T* ET
 Q
 Q
 q
@@ -616,7 +620,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Bugfix ) Tj 0 0 0 rg (in ) Tj 0 0 .501961 rg (nose-progressive) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (django-pontoon-hook) Tj 0 0 0 rg (, a hook for Django applications to use Pontoon for localization) Tj T* ET
 Q
 Q
 q
@@ -639,7 +643,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (pywebcrawler) Tj 0 0 0 rg (, a simple web crawler written in Python.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Bugfix ) Tj 0 0 0 rg (in ) Tj 0 0 .501961 rg (nose-progressive) Tj  T* ET
 Q
 Q
 q
@@ -662,7 +666,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (wordGroupz) Tj 0 0 0 rg (, a vocabulary building app designed using Python and Gtk) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (pywebcrawler) Tj 0 0 0 rg (, a simple web crawler written in Python.) Tj T* ET
 Q
 Q
 q
@@ -685,7 +689,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (WordCollections) Tj 0 0 0 rg (, a desktop tool for building glossary for localization) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (wordGroupz) Tj 0 0 0 rg (, a vocabulary building app designed using Python and Gtk) Tj T* ET
 Q
 Q
 q
@@ -708,7 +712,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (FedX) Tj 0 0 0 rg (, a tool for syncing, configuring Fedora offline repositories) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (WordCollections) Tj 0 0 0 rg (, a desktop tool for building glossary for localization) Tj T* ET
 Q
 Q
 q
@@ -731,7 +735,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Feature development ) Tj 0 0 0 rg (in ) Tj 0 0 .501961 rg (Kettu) Tj  T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (FedX) Tj 0 0 0 rg (, a tool for syncing, configuring Fedora offline repositories) Tj T* ET
 Q
 Q
 q
@@ -754,6 +758,29 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Feature development ) Tj 0 0 0 rg (in ) Tj 0 0 .501961 rg (Kettu) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 378.0236 cm
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Bugfixes and feature development ) Tj 0 0 0 rg (for ) Tj 0 0 .501961 rg (Askbot) Tj  T* ET
 Q
 Q
@@ -761,22 +788,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 384.0236 cm
+1 0 0 1 62.69291 366.0236 cm
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
+1 0 0 1 62.69291 333.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 339.0236 cm
+1 0 0 1 62.69291 321.0236 cm
 Q
 q
-1 0 0 1 62.69291 339.0236 cm
+1 0 0 1 62.69291 321.0236 cm
 Q
 q
-1 0 0 1 62.69291 315.0236 cm
+1 0 0 1 62.69291 297.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -790,29 +817,6 @@ q
 1 0 0 1 23 -3 cm
 q
 BT 1 0 0 1 0 14 Tm .176905 Tw 12 TL /F2 10 Tf 0 0 0 rg (Bachelor of Technology) Tj /F1 10 Tf (, Computer Science & Engineering from Dr. B. C. Roy Engineering College) Tj T* 0 Tw (, 2007 \226 2011 \(DGPA/CGPA: 8.4\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 309.0236 cm
-Q
-q
-1 0 0 1 62.69291 297.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (AISSCE ) Tj /F1 10 Tf (from Gurukul Grammar Senior Secondary School, 2007 \(Aggregate: 83.8%\)) Tj T* ET
 Q
 Q
 q
@@ -835,6 +839,29 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (AISSCE ) Tj /F1 10 Tf (from Gurukul Grammar Senior Secondary School, 2007 \(Aggregate: 83.8%\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (HSLCE ) Tj /F1 10 Tf (from Bongaigaon High School English Medium, 2004 \(Aggregate: 87%\)) Tj T* ET
 Q
 Q
@@ -842,28 +869,28 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 279.0236 cm
+1 0 0 1 62.69291 261.0236 cm
 Q
 q
-1 0 0 1 62.69291 246.0236 cm
+1 0 0 1 62.69291 228.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (As a speaker) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 204.0236 cm
+1 0 0 1 62.69291 186.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 2.134147 Tw 12 TL /F2 10 Tf 0 0 0 rg (Software Freedom Day) Tj /F1 10 Tf (, Kolkata, 2009; ) Tj /F2 10 Tf (FUDCON, Pune) Tj /F1 10 Tf (, 2011; ) Tj /F2 10 Tf (Mukti, 2012 ) Tj /F1 10 Tf (\(NIT Durgapur's FOSS) Tj T* 0 Tw 3.31229 Tw (Tech. Fest\); ) Tj /F2 10 Tf (FUDCON, Kuala Lumpur) Tj /F1 10 Tf (, 2012; ) Tj /F2 10 Tf (Pycon India) Tj /F1 10 Tf (, 2012 & 2013; ) Tj /F2 10 Tf (Flock) Tj /F1 10 Tf (, Prague, Czech) Tj T* 0 Tw (Republic, 2014; ) Tj /F2 10 Tf (DGPLUG ) Tj /F1 10 Tf (10 years meetup at NIT Durgapur, 2014.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 171.0236 cm
+1 0 0 1 62.69291 153.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (References) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 153.0236 cm
+1 0 0 1 62.69291 135.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Available on request.) Tj T* ET
@@ -872,17 +899,17 @@ Q
  
 endstream
 endobj
-55 0 obj
-<< /Nums [ 0 56 0 R 1 57 0 R ] >>
-endobj
 56 0 obj
-<< /S /D /St 1 >>
+<< /Nums [ 0 57 0 R 1 58 0 R ] >>
 endobj
 57 0 obj
+<< /S /D /St 1 >>
+endobj
+58 0 obj
 << /S /D /St 2 >>
 endobj
 xref
-0 58
+0 59
 0000000000 65535 f
 0000000075 00000 n
 0000000141 00000 n
@@ -903,49 +930,50 @@ xref
 0000002661 00000 n
 0000002897 00000 n
 0000003082 00000 n
-0000003299 00000 n
-0000003509 00000 n
-0000003723 00000 n
-0000003940 00000 n
-0000004167 00000 n
-0000004390 00000 n
-0000004590 00000 n
-0000004784 00000 n
-0000004976 00000 n
-0000005173 00000 n
-0000005386 00000 n
-0000005620 00000 n
-0000005807 00000 n
-0000006024 00000 n
-0000006218 00000 n
-0000006584 00000 n
-0000006693 00000 n
-0000006904 00000 n
-0000006982 00000 n
-0000007104 00000 n
-0000007229 00000 n
-0000007352 00000 n
-0000007520 00000 n
-0000007694 00000 n
-0000007882 00000 n
-0000008073 00000 n
-0000008243 00000 n
-0000008370 00000 n
-0000008494 00000 n
-0000008620 00000 n
-0000008747 00000 n
-0000008877 00000 n
-0000008992 00000 n
-0000009063 00000 n
-0000015031 00000 n
-0000024477 00000 n
-0000024530 00000 n
-0000024567 00000 n
+0000003264 00000 n
+0000003481 00000 n
+0000003691 00000 n
+0000003905 00000 n
+0000004122 00000 n
+0000004323 00000 n
+0000004546 00000 n
+0000004746 00000 n
+0000004940 00000 n
+0000005132 00000 n
+0000005329 00000 n
+0000005542 00000 n
+0000005776 00000 n
+0000005963 00000 n
+0000006180 00000 n
+0000006374 00000 n
+0000006751 00000 n
+0000006860 00000 n
+0000007071 00000 n
+0000007149 00000 n
+0000007271 00000 n
+0000007396 00000 n
+0000007519 00000 n
+0000007687 00000 n
+0000007861 00000 n
+0000008049 00000 n
+0000008240 00000 n
+0000008410 00000 n
+0000008537 00000 n
+0000008661 00000 n
+0000008787 00000 n
+0000008914 00000 n
+0000009044 00000 n
+0000009159 00000 n
+0000009230 00000 n
+0000015198 00000 n
+0000025032 00000 n
+0000025085 00000 n
+0000025122 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(i\344\227\372\303M\317\227u>\347D`t&\265) (i\344\227\372\303M\317\227u>\347D`t&\265)]
- /Info 36 0 R /Root 35 0 R /Size 58 >>
+ [(\266\333K$L\323F\341mqC\304^XU\325) (\266\333K$L\323F\341mqC\304^XU\325)]
+ /Info 37 0 R /Root 36 0 R /Size 59 >>
 startxref
-24604
+25159
 %%EOF
