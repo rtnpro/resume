@@ -113,7 +113,7 @@ endobj
 << /Outlines 38 0 R /PageLabels 56 0 R /PageMode /UseNone /Pages 53 0 R /Type /Catalog >>
 endobj
 37 0 obj
-<< /Author () /CreationDate (D:20150114101934-05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20150203201304-05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title () >>
 endobj
 38 0 obj
@@ -406,7 +406,7 @@ Q
 endstream
 endobj
 55 0 obj
-<< /Length 9777 >>
+<< /Length 10095 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -890,11 +890,34 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (References) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 135.0236 cm
+1 0 0 1 62.69291 141.0236 cm
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+Q
+q
+1 0 0 1 62.69291 129.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Available on request.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Kushal Das, Fedora Cloud Engineer, kdas AT redhat DOT com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 129.0236 cm
 Q
  
 endstream
@@ -966,14 +989,14 @@ xref
 0000009159 00000 n
 0000009230 00000 n
 0000015198 00000 n
-0000025032 00000 n
-0000025085 00000 n
-0000025122 00000 n
+0000025351 00000 n
+0000025404 00000 n
+0000025441 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\266\333K$L\323F\341mqC\304^XU\325) (\266\333K$L\323F\341mqC\304^XU\325)]
+ [(\317D_~\327Q_\335F\016t\032\017RO1) (\317D_~\327Q_\335F\016t\032\017RO1)]
  /Info 37 0 R /Root 36 0 R /Size 59 >>
 startxref
-25159
+25478
 %%EOF

@@ -135,4 +135,5 @@ As a speaker
 ----------
 References
 ----------
-Available on request.
+* Kushal Das, Fedora Cloud Engineer, kdas AT redhat DOT com
+
