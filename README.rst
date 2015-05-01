@@ -17,10 +17,10 @@ I am the creator and maintainer of Waartaa (https://www.waartaa.com),
 an open source communication and collaboration tool for humans. I usually
 make web apps using Python/Django, however, lately, I have been working a
 lot with MeteorJS. I am also working with Ansible for provisioning servers.
-I also contribute to The Fedora Project and Mozilla. I work at
-https://www.goibibo.com as a Senior Software Engineer. At work, I write
-intuitive, maintainable, scalable web apps using Python/Django. In
-my free time, I get my hands dirty with some infrastructure plumbing, as well.
+I also contribute to The Fedora Project and Mozilla. Currently, I am a Member
+of Technical Staff at Idea Device (https://www.ideadevice.com). At work,
+I am working on building scalable applications for IT infrastructure
+automation, plumbing with Docker, etc.
 
 
 -----
@@ -33,18 +33,33 @@ the world a better place.
 ----------
 Experience
 ----------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Member of technical staff, Idea Device Technologies, April 2015 - Present
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+At Idea Device, my job is to build scalable applications for IT infrastructure
+automation. I am also involved in exploring the container technologies and
+currently working on prototyping a high level orchestration to build an auto
+scaling and self healing cluster on top of Docker and related technologies.
+
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 - Present
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I'm heading *communication* and *CRM* tools development, and also engaging in
-infrastructure plumbing as needed.
+I was heading *communication* and *CRM* tools development, and also engaging in
+infrastructure plumbing as needed. I've revamped deployment process with Ansible,
+setup development workflow on top of vagrant, and also built a smart IVR
+framework to automate solving customer queries and requests. I've also
+prototyped plug and play widgets to empower complex use cases and flows in
+customer support page.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Engineer at Ibibo Group Pvt. Ltd., February 2013 - April 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Involved in web development for Goibibo: Flights and Go (a dynamic
 packaging product). It was an awesome experience to create apps which
-power various platforms like web, iOS, Android.
+power various platforms like web, iOS, Android. I had also introduced
+Gitlab into Goibibo's ecosystem and worked to set guidelines for developer
+collaboration and release delivery around Gitlab.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Developer and QA at Transifex , September 2011 – January 2013
@@ -81,7 +96,7 @@ Projects
 --------
 * `Waartaa <https://www.waartaa.com>`_,
   an open source communication and collaboration tool
-* Bugfixes for `Fedora Infra <https://github.com/fedora-infra>`_
+* Contributing to `Fedora Infra <https://github.com/fedora-infra>`_
 * `Bugfixes and new features <http://goo.gl/j66e68>`_ for for Firefox
 * `Bugfix <https://github.com/django/django/commit/5449240c548bb6877923791d02e800c6b25393f5>`_
   for `Django <https://www.djangoproject.com>`_
