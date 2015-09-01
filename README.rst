@@ -33,9 +33,15 @@ the world a better place.
 ----------
 Experience
 ----------
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Member of technical staff, Idea Device Technologies, April 2015 - Present
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Container Engineer, OSAS, Red Hat, August 2015 - Present
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I work on tooling around container technologies: projectatomic, docker, etc.
+Contributing to Free and Open Source software is my day job.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Member of technical staff, Idea Device Technologies, April 2015 - August 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 At Idea Device, my job is to build scalable applications for IT infrastructure
 automation. I am also involved in exploring the container technologies and
 currently working on prototyping a high level orchestration to build an auto
