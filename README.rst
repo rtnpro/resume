@@ -53,9 +53,9 @@ automation. I am also involved in exploring the container technologies and
 currently working on prototyping a high level orchestration to build an auto
 scaling and self healing cluster on top of Docker and related technologies.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 - Present
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Senior Software Engineer at Ibibo Group Pvt. Ltd., May 2014 - March 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 I was heading *communication* and *CRM* tools development, and also engaging in
 infrastructure plumbing as needed. I've revamped deployment process with Ansible,
 setup development workflow on top of vagrant, and also built a smart IVR
